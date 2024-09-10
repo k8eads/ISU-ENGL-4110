@@ -1,8 +1,8 @@
 Haraway and Bazerman
 =================
 
-# A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century #
-## Haraway, D. J. (1991) ##
+## A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century ##
+### Haraway, D. J. (1991) ###
 
 Interested to see how Socialist-Feminism works its way into this paper
 
@@ -16,11 +16,11 @@ So far... seems as though this cyborg is a combination of what people think is h
 
 _They could not achieve man's dream, only mock it_
 
-## WOMEN IN THE INTEGRATED CIRCUIT ##
+### WOMEN IN THE INTEGRATED CIRCUIT ###
 
 _Home, Market, Paid Work Place, State, School, Clinic-Hospital, and Church_ 
 
-### in class digestion ###
+#### in class digestion ####
 
 cybernetic organism - marriage of humanities and technology
 
