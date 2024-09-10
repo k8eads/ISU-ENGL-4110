@@ -6,7 +6,7 @@ Haraway and Bazerman
 
 Interested to see how Socialist-Feminism works its way into this paper
 
-_A cyborg is a cybernetic organism, a hybrid of machine and organism, a creature of social reality as well as a creatyre if fiction_
+_A cyborg is a cybernetic organism, a hybrid of machine and organism, a creature of social reality as well as a creature if fiction_
 
 _The internation women's movements have constructed 'women's experience', as well as well as uncovered or discovered this crucial collective object._
 
@@ -20,8 +20,14 @@ _They could not achieve man's dream, only mock it_
 
 _Home, Market, Paid Work Place, State, School, Clinic-Hospital, and Church_ 
 
-**How to read and digest these texts?**
+### in class digestion ###
 
+cybernetic organism - marriage of humanities and technology
 
+_We are all chimeras, theorized and fabricated hybrids of machine and organism_
+
+Combination of different animals, more complex and versitle 
+
+_Territories of production, reproduction, and imagination_
 
 
