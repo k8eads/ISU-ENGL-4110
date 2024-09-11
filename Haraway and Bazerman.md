@@ -31,3 +31,7 @@ Combination of different animals, more complex and versitle
 _Territories of production, reproduction, and imagination_
 
 
+### Fractured Identities ###
+_Identities seem contradictory, partial, and strategic_
+
+<span style="color: #72BDA3;">This should be blue text</span>
