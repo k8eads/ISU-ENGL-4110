@@ -1,0 +1,5 @@
+videos/
+*.mov
+*.jpg
+*.png
+DS_STORE
