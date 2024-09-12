@@ -60,9 +60,9 @@
 + Eggs
 
 
-`- Cheese`
-`* Milk`
-`+ Eggs`
+`- Cheese`\
+`* Milk`\
+`+ Eggs`\
 
 
 1. Cheese
@@ -70,9 +70,9 @@
 3. Eggs
 
 
-`1. Cheese`
-`2. Milk`
-`3. Eggs`
+`1. Cheese`\
+`2. Milk`\
+`3. Eggs`\
 
 
 **Tab for nested lists**
@@ -84,8 +84,8 @@
 - [ ] Eggs
 
 
-`- [x] Cheese`
-`- [ ] Milk`
+`- [x] Cheese`\
+`- [ ] Milk`\
 `- [ ] Eggs`
 
 
