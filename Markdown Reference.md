@@ -32,7 +32,7 @@
 
 
 > Quoted Text\
-`\> Quoted Text`
+`> Quoted Text`
 
 
 `Quoted Code`\
