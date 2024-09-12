@@ -20,7 +20,7 @@ So far... seems as though this cyborg is a combination of what people think is h
 
 *Home, Market, Paid Work Place, State, School, Clinic-Hospital, and Church*
 
-#### in class digestion ####
+#### In Class Digestion ####
 
 cybernetic organism - marriage of humanities and technology
 
