@@ -31,7 +31,7 @@
 `~Strikethrough Text~`
 
 
-> Quoted Text\
+> Quoted Text
 
 `> Quoted Text`
 
