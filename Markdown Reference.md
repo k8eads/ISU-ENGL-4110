@@ -32,11 +32,11 @@
 
 
 > Quoted Text\
-`> Quote`
+`\> Quoted Text`
 
 
 `Quoted Code`\
-``Quoted Code``
+`(backtick)Quoted Code(backtick)`
 
 
 [Link to my Repo](https://github.com/k8eads/ISU-ENGL-4110)\
@@ -98,7 +98,7 @@
 
 
 
-`| Date | In | Out |
-|:--|:--|:--|
-| Sept 11, 2004 | 9:00 AM | 9:00 PM |
-| Sept 12, 2004 | 9:00 AM | 12:00 AM |`
+`| Date | In | Out |`\
+`|:--|:--|:--|`\
+`| Sept 11, 2004 | 9:00 AM | 9:00 PM |`\
+`| Sept 12, 2004 | 9:00 AM | 12:00 AM |`
