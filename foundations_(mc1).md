@@ -21,3 +21,18 @@ By being a cyborg you are a chimera “theorized and fabricated hybrids of machi
 The old is necessary for the new but not something that should be settled for. This is illustrated well when Haraway talks about how her “odd perspective” is shaped by her historical position. He odd perspective has been made possible by dark things that she chose to use as a springboard for change.
 
 Ultimately it’s up to the reader what to believe. These enlightened cyborgs are going to be aware of the duality and necessity for change while those who are stuck stay ignorant. 
+
+
+### Big Takeaway ###
+The two quotes below sum up the reading very well and says a lot about our reality and the presence of polar opposition.
+
+> Cyborg imagery can suggest a way out of the maze of dualisms in which we have explained our bodies and our tools to ourselves.
+
+> It means both building and destroying machines, identities, categories, relationships, space stories. Though both are bound in the spiral dance, I would rather be a cyborg than a goddess.
+
+By breaking down existing aspects of society we can hope to become a cyborg that is aware/a product of both ends of the polarity in our existing lives.
+
+I think the cyborg imagery also stands to be a more realistic depiction of a lot of people who frequently struggle with fitting in. The trouble of fitting in is that at the end of the day a majority of people aren’t extremely polarized to one side or idea but are subconsciously pushing polarized ideals. Therefore there is no progress. 
+
+
+
