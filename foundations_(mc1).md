@@ -23,16 +23,30 @@ The old is necessary for the new but not something that should be settled for. T
 Ultimately it’s up to the reader what to believe. These enlightened cyborgs are going to be aware of the duality and necessity for change while those who are stuck stay ignorant. 
 
 
-### Big Takeaway ###
+### Class Discussion ###
 The two quotes below sum up the reading very well and says a lot about our reality and the presence of polar opposition.
 
-> Cyborg imagery can suggest a way out of the maze of dualisms in which we have explained our bodies and our tools to ourselves.
+> **Cyborg imagery can suggest a way out of the maze of dualisms in which we have explained our bodies and our tools to ourselves.**
 
 > It means both building and destroying machines, identities, categories, relationships, space stories. Though both are bound in the spiral dance, I would rather be a cyborg than a goddess.
 
 By breaking down existing aspects of society we can hope to become a cyborg that is aware/a product of both ends of the polarity in our existing lives.
 
 I think the cyborg imagery also stands to be a more realistic depiction of a lot of people who frequently struggle with fitting in. The trouble of fitting in is that at the end of the day a majority of people aren’t extremely polarized to one side or idea but are subconsciously pushing polarized ideals. Therefore there is no progress. 
+
+#### Turning #### 
+What ought to be done? Teach machines how to play chess or how to speak English? 
+
+#### Discussion Qs: ####
+
+How does the rhetoric of technology intersect with rhetoric in regards to the female experience?
+
+> May scientific and technical workers in Silicon Valley, the high-tech cowboys included, do not want to work on military science. Can these personal preferences and cultural tendencies be welded into progressive politics among this profession middle class which women, including woman of colour, are coming to be fairly numerous?
+
+What “historical position” could be providing “odd perspectives” for girls nowadays?
+
+How does power come into play within the rhetoric of technology?
+
 
 
 

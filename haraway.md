@@ -40,7 +40,7 @@ Combination of different animals, more complex and versitle
 
 *affinity not identity*
 
-She is honestly coming up with some banger lines here. As a female I am really resonating with a lot of what she is saying which is so biziare considering the time period this was written. She also puts it so eloquently in a way that is profound but honestly not that hard to digest.
+She is honestly coming up with some banger lines here. As a female I am really resonating with a lot of what she is saying which is so bizarre considering the time period this was written. She also puts it so eloquently in a way that is profound but honestly not that hard to digest.
 
 **How does the rhetoric of technology intersect with rhetoric in regards to the female experience?**
 
