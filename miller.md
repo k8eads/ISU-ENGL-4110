@@ -48,3 +48,10 @@ Engineering has lost all meaning because the processes are now part of the "clos
 > self-doubt has never been a common problem for engineers
 ^ love this line
 
+technology is a branch of moral philosophy
+
+> But technology is not a "purer" form of knowledge or action; it encour- ages its own forms of consciousness, which are the more powerful just be- cause we may think them truer, or more transparent, or more objective than others. This is the insidious aspect of technological consciousness—it would
+hold that it itself does not exist.
+
+> The intersubjective view assumed by this essay makes perceived reality a matter of both personal action and social con- sensus; "character" is dependent on both.
+
